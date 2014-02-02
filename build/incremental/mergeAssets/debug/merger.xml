@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/george/android/BLUNO_DEMO/assets" />
+        <source path="/home/george/android/BLUNO_SIMPLE_DEMO/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/george/android/BLUNO_DEMO/build-types/debug/assets" />
+        <source path="/home/george/android/BLUNO_SIMPLE_DEMO/build-types/debug/assets" />
     </dataSet>
 
 </merger>

@@ -2,9 +2,9 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/george/android/BLUNO_DEMO/res" >
+        <source path="/home/george/android/BLUNO_SIMPLE_DEMO/res" >
             <file
-                path="/home/george/android/BLUNO_DEMO/res/values/dimens.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
@@ -12,7 +12,7 @@
                 </dimen>
             </file>
             <file
-                path="/home/george/android/BLUNO_DEMO/res/values/styles.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -34,7 +34,7 @@
                 </style>
             </file>
             <file
-                path="/home/george/android/BLUNO_DEMO/res/values/strings.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/values/strings.xml"
                 qualifiers="" >
                 <string name="action_settings" >Action settings
                 </string>
@@ -74,7 +74,7 @@
                 </string>
             </file>
             <file
-                path="/home/george/android/BLUNO_DEMO/res/values-v11/styles.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -86,11 +86,11 @@
             </file>
             <file
                 name="ic_launcher"
-                path="/home/george/android/BLUNO_DEMO/res/drawable-hdpi/ic_launcher.png"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
-                path="/home/george/android/BLUNO_DEMO/res/values-v14/styles.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -102,40 +102,40 @@
             </file>
             <file
                 name="main"
-                path="/home/george/android/BLUNO_DEMO/res/menu/main.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="ic_launcher"
-                path="/home/george/android/BLUNO_DEMO/res/drawable-mdpi/ic_launcher.png"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
-                path="/home/george/android/BLUNO_DEMO/res/values-sw720dp-land/dimens.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
                 name="ic_launcher"
-                path="/home/george/android/BLUNO_DEMO/res/drawable-xhdpi/ic_launcher.png"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="listitem_device"
-                path="/home/george/android/BLUNO_DEMO/res/layout/listitem_device.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/layout/listitem_device.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_main"
-                path="/home/george/android/BLUNO_DEMO/res/layout/activity_main.xml"
+                path="/home/george/android/BLUNO_SIMPLE_DEMO/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
         </source>
-        <source path="/home/george/android/BLUNO_DEMO/build/res/rs/debug" />
+        <source path="/home/george/android/BLUNO_SIMPLE_DEMO/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/george/android/BLUNO_DEMO/build-types/debug/res" />
+        <source path="/home/george/android/BLUNO_SIMPLE_DEMO/build-types/debug/res" />
     </dataSet>
 
 </merger>
